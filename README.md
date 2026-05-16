@@ -116,7 +116,6 @@ No Cancer Case:
 Developed by Tejas L
 
 
-
 ⭐ If you like this project
 
 Feel free to star ⭐ the repository and explore more ML projects!
